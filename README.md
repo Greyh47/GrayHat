@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GrayHat
+- 👋 Hi, I’m @GreyHat
 - 👀 I’m interested in programing
 
 <!---
